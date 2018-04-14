@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1523010365 source:d:\nsu\5th semester\cse 225\codes (code blocks)\test _f\nsu cafeteria\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<string.h>
+
+1523010448 d:\nsu\5th semester\cse 225\codes (code blocks)\test _f\nsu cafeteria\linkedlist.h
+	<string>
+
+1523010031 source:d:\nsu\5th semester\cse 225\codes (code blocks)\test _f\nsu cafeteria\main.cpp
+	<iostream>
+	<string.h>
+	"LinkedList.h"
+	"LinkedList.cpp"
+
+1523010527 d:\nsu\5th semester\cse 225\codes (code blocks)\test _f\nsu cafeteria\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<string.h>
+
+1523563964 source:c:\users\anikk\desktop\nsu cafeteria\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdio>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	"LinkedList.h"
+
+1523555381 c:\users\anikk\desktop\nsu cafeteria\linkedlist.h
+	<string>
+
+1523555449 source:c:\users\anikk\desktop\nsu cafeteria\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<string.h>
+
